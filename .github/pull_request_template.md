@@ -11,14 +11,13 @@
 Fixes #1234523
 
 ### Checklist
-[] All requirements met
-[] Tests included
-[] Documentation attached
-[] Code reviewed
-
+- [ ] All requirements met
+- [ ] Tests included
+- [ ] Documentation attached
+- [ ] Code reviewed
 
 ### Related Documentation
-<!-- any additional notes for this PR -->
+<!-- any documentation that is required for this pr -->
 
 
 ### How to test
