@@ -3,7 +3,6 @@
 
 ## This PR
 <!-- add the description of the PR here -->
-
 - adds this new feature
 
 ### Related Issues
@@ -11,12 +10,16 @@
 
 Fixes #1234523
 
-### Notes
+### Checklist
+[] All requirements met
+[] Tests included
+[] Documentation attached
+[] Code reviewed
+
+
+### Related Documentation
 <!-- any additional notes for this PR -->
 
-### Follow-up Tasks
-<!-- anything that is related to this PR but not done here should be noted under this section -->
-<!-- if there is a need for a new issue, please link it here -->
 
 ### How to test
 <!-- if applicable, add testing instructions under this section -->
